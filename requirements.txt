@@ -1,0 +1,6 @@
+requests
+PyPDF2
+pymongo[srv]
+ddddocr
+pyTelegramBotAPI
+certifi
