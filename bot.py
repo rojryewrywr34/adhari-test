@@ -40,8 +40,8 @@ OWNER_USERNAME = "@RedxOnline"
 
 # 4. BOT BRANDING (naam & channel)
 BOT_NAME         = "✜ REDxAadhar"
-CHANNEL_USERNAME = "@RedxChannel"
-CHANNEL_LINK     = "https://t.me/RedxChannel"
+CHANNEL_USERNAME = "@redpbty"
+CHANNEL_LINK     = "https://t.me/redpbty"
 
 # 5. LOG CHANNELS (Telegram channel IDs)
 LOG_CHANNEL_ID      = -1004434031417
