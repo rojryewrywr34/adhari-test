@@ -56,7 +56,23 @@ MONGO_URI = os.environ.get(
 # 7. UIDAI PROXY (residential proxy chahiye)
 #    Khali chhodna ho toh: UIDAI_PROXIES = []
 UIDAI_PROXIES = [
-    "https://MYkwiWgDiK30_custom_zone_IN_st__city_sid_86268847_time_90:5170715@change4.owlproxy.com:7778"
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_57271233_time_5:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_58883140_time_5:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_81621065_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_34483036_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_35165080_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_18317258_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_37970288_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_10917488_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_67339987_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_32731696_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_36159890_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_36326285_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_58087635_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_12204065_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_86268847_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_10331406_time_90:5170715@change4.owlproxy.com:7778",
+    "http://MYkwiWgDiK30_custom_zone_IN_st__city_sid_10758522_time_90:5170715@change4.owlproxy.com:7778"
 ]
 
 # 8. BOT BEHAVIOR SETTINGS
