@@ -56,7 +56,7 @@ MONGO_URI = os.environ.get(
 # 7. UIDAI PROXY (residential proxy chahiye)
 #    Khali chhodna ho toh: UIDAI_PROXIES = []
 UIDAI_PROXIES = [
-    "http://ka65o1ob80lw_country-in:uxbkzlRco8xdgMXx@vr2-resi.proxy.arealproxy.com:1337"
+    "https://MYkwiWgDiK30_custom_zone_IN_st__city_sid_86268847_time_90:5170715@change4.owlproxy.com:7778"
 ]
 
 # 8. BOT BEHAVIOR SETTINGS
