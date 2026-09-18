@@ -33,7 +33,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get(
 )
 
 # 2. ADMIN / OWNER IDs (apni Telegram user ID)
-OWNER_IDS = {8901139503}
+OWNER_IDS = {8589661938}
 
 # 3. OWNER USERNAME (support ke liye)
 OWNER_USERNAME = "@RedxOnline"
