@@ -82,40 +82,40 @@ PAGE_SIZE        = 10
 CACHE_TTL        = 15
 
 # 9. SECOND BOT TOKEN (Broadcast fallback ke liye)
-SECOND_BOT_TOKEN = "8642245501:AAGYDhvomuulvAwG-Psco9TSNkscLZ3G2NU"
+SECOND_BOT_TOKEN = "8642245501:AAGYDhvomuulvAwG-Psco9TSNks"
 
 # 10. CRYPTO WALLET ADDRESSES (payment ke liye)
-WALLET_USDT_TRC20 = "TFM71mHznKPQVUKE6nE9SKmiSmG5GW8PUg"
-WALLET_USDT_BEP20 = "0x2cb31fc4cad2058926b8733e603e8ed13c706637"
-WALLET_USDT_ERC20 = "0x2cb31fc4cad2058926b8733e603e8ed13c706637"
-WALLET_BTC        = "13BeEVpjkQErHhPTdLd6CnBp8RRzRxmJMN"
-WALLET_ETH_ERC20  = "0x2cb31fc4cad2058926b8733e603e8ed13c706637"
-WALLET_LTC        = "LTYDLqisVrSYrDdvjHfyB43j3Nvrq5oGkn"
+WALLET_USDT_TRC20 = "update-soon"
+WALLET_USDT_BEP20 = "update-soon"
+WALLET_USDT_ERC20 = "update-soon"
+WALLET_BTC        = "update-soon"
+WALLET_ETH_ERC20  = "update-soon"
+WALLET_LTC        = "update-soon"
 
 # 11. PRICING PLANS
 LIMITED_PLANS = {
-    'l1':    {'name': '1 Search',     'price': '$0.50'},
-    'l5':    {'name': '5 Searches',    'price': '$2.50'},
-    'l10':   {'name': '10 Searches',   'price': '$4.00'},
-    'l20':   {'name': '20 Searches',   'price': '$7.00'},
-    'l30':   {'name': '30 Searches',   'price': '$10.00'},
-    'l50':   {'name': '50 Searches',   'price': '$15.00'},
-    'l100':  {'name': '100 Searches',  'price': '$25.00'},
-    'l200':  {'name': '200 Searches',  'price': '$40.00'},
-    'l500':  {'name': '500 Searches',  'price': '$75.00'},
-    'l1000': {'name': '1000 Searches', 'price': '$100.00'},
+    'l1':    {'name': '1 Search',     'price': '49₹'},
+    'l5':    {'name': '5 Searches',    'price': '250₹'},
+    'l10':   {'name': '10 Searches',   'price': '400₹'},
+    'l20':   {'name': '20 Searches',   'price': '700₹'},
+    'l30':   {'name': '30 Searches',   'price': '1000₹'},
+    'l50':   {'name': '50 Searches',   'price': '1500₹'},
+    'l100':  {'name': '100 Searches',  'price': '2500₹'},
+    'l200':  {'name': '200 Searches',  'price': '4000₹'},
+    'l500':  {'name': '500 Searches',  'price': '7500₹'},
+    'l1000': {'name': '1000 Searches', 'price': '10000₹'},
 }
 
 UNLIMITED_PLANS = {
-    'u1d':   {'name': '1 Day Unlimited',    'price': '$2.50'},
-    'u3d':   {'name': '3 Days Unlimited',   'price': '$5.00'},
-    'u7d':   {'name': '7 Days Unlimited',   'price': '$9.00'},
-    'u15d':  {'name': '15 Days Unlimited',  'price': '$15.00'},
-    'u1m':   {'name': '1 Month Unlimited',  'price': '$25.00'},
-    'u3m':   {'name': '3 Months Unlimited', 'price': '$60.00'},
-    'u6m':   {'name': '6 Months Unlimited', 'price': '$80.00'},
-    'u12m':  {'name': '1 Year Unlimited',   'price': '$99.00'},
-    'ulife': {'name': 'Lifetime Unlimited', 'price': '$149.00'},
+    'u1d':   {'name': '1 Day Unlimited',    'price': '250₹'},
+    'u3d':   {'name': '3 Days Unlimited',   'price': '500₹'},
+    'u7d':   {'name': '7 Days Unlimited',   'price': '900₹'},
+    'u15d':  {'name': '15 Days Unlimited',  'price': '1500₹'},
+    'u1m':   {'name': '1 Month Unlimited',  'price': '2500₹'},
+    'u3m':   {'name': '3 Months Unlimited', 'price': '6000₹'},
+    'u6m':   {'name': '6 Months Unlimited', 'price': '8000₹'},
+    'u12m':  {'name': '1 Year Unlimited',   'price': '9900₹'},
+    'ulife': {'name': 'Lifetime Unlimited', 'price': '14900₹'},
 }
 
 DIVIDER = "━━━━━━━━━━━━━━━"
