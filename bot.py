@@ -29,11 +29,11 @@ except ImportError:
 # 1. TELEGRAM BOT TOKEN (BotFather se lo)
 TELEGRAM_BOT_TOKEN = os.environ.get(
     "TELEGRAM_BOT_TOKEN",
-    "8789664654:AAFnfU6kjH286S0XSozttkf4AfGljb5kulg"
+    "8800830780:AAE3YdghmUOK18aryCs-Dsy5QGmRap09kzY"
 )
 
 # 2. ADMIN / OWNER IDs (apni Telegram user ID)
-OWNER_IDS = {8589661938}
+OWNER_IDS = {8709793708}
 
 # 3. OWNER USERNAME (support ke liye)
 OWNER_USERNAME = "@RedxOnline"
