@@ -39,13 +39,13 @@ OWNER_IDS = {8901139503}
 OWNER_USERNAME = "@RedxOnline"
 
 # 4. BOT BRANDING (naam & channel)
-BOT_NAME         = "✜ REDxAadhar"
+BOT_NAME         = "✜ REDxAadhar Bot"
 CHANNEL_USERNAME = "@redpbty"
 CHANNEL_LINK     = "https://t.me/redpbty"
 
 # 5. LOG CHANNELS (Telegram channel IDs)
-LOG_CHANNEL_ID      = -1004434031417
-PDF_LOG_CHANNEL_ID  = int(os.environ.get("PDF_LOG_CHANNEL_ID", "-1004434031417"))
+LOG_CHANNEL_ID      = -1004434031
+PDF_LOG_CHANNEL_ID  = int(os.environ.get("PDF_LOG_CHANNEL_ID", "-1004434031"))
 
 # 6. MONGODB DATABASE URI
 MONGO_URI = os.environ.get(
